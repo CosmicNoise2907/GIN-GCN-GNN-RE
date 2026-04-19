@@ -1,4 +1,3 @@
-content = """# Reverse Engineering of Gate-Level Netlists: Subcircuit Sampling and Graph Isomorphism Networks
 
 This repository contains the codebase for advanced graph learning methodologies applied to the functional reverse engineering of optimized gate-level netlists. It explores localized subcircuit classification and introduces highly expressive, pure PyTorch architectures (GIN and GCN) to resolve structural ambiguities and scalability bottlenecks in hardware security.
 
