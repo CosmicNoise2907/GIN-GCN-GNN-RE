@@ -2,7 +2,7 @@
 This repository contains the codebase for advanced graph learning methodologies applied to the functional reverse engineering of optimized gate-level netlists. It explores localized subcircuit classification and introduces highly expressive, pure PyTorch architectures (GIN and GCN) to resolve structural ambiguities and scalability bottlenecks in hardware security.
 
 ## Acknowledgment
-This project builds upon the foundational framework provided by the **GNN-RE** project. We extend our sincere gratitude to the original authors. 
+This project builds upon the foundational framework provided by the **GNN-RE** project.
 * **Original Repository:** [DfX-NYUAD/GNN-RE](https://github.com/DfX-NYUAD/GNN-RE/tree/main)
 
 ---
